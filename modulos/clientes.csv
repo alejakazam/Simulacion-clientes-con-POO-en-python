@@ -1,0 +1,13 @@
+identificador,tarifa,nombre,rut,email,telefono,direccion,descuento
+1,Premium,Valentina Mella,11.234.567-8,valentina.mella@mail.com,987654111,Calle Falsa 123 Santiago,10
+2,Básica,Ignacio Paredes,14.876.543-2,ignacio.paredes@mail.com,956321222,Avenida Inventada 456 Ñuñoa,0
+3,Empresa,NeoTech SpA,76.111.222-3,contacto@neotech.cl,223344111,Pasaje Digital 789 Providencia,15
+4,Premium,Camila Fuentes,13.987.654-1,camila.fuentes@mail.com,912345333,Calle Imaginaria 321 La Florida,12
+5,Básica,Matías Riquelme,16.543.219-7,matias.riquelme@mail.com,934567444,Ruta Fantasma 654 Maipú,0
+6,Empresa,Orion Ltda,88.222.333-4,ventas@orion.cl,221100555,Bulevar Simulado 987 Las Condes,20
+7,Premium,Daniela Aravena,12.111.444-9,daniela.aravena@mail.com,998877666,Calle Eclipse 147 Peñalolén,8
+8,Básica,Sebastián Lagos,17.654.321-5,sebastian.lagos@mail.com,965432777,Avenida Prisma 258 San Miguel,0
+9,Empresa,Atlas Corp,79.333.444-6,info@atlascorp.cl,224466888,Pasaje Vectorial 369 Huechuraba,18
+10,Premium,Francisca Olivares,15.222.888-0,francisca.olivares@mail.com,911223999,Camino Ficción 741 Vitacura,10
+11,Básica,Nicolás Herrera,18.999.111-3,nicolas.herrera@mail.com,933221000,Calle Paralela 852 Macul,0
+12,Empresa,Lumen Group,77.555.666-1,contacto@lumen.cl,225577999,Avenida Aurora 963 Quilicura,25
